@@ -6,7 +6,7 @@ plugins:
   - jekyll-seo-tag
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://anishacharya.github.io"
+url: "http://yaniceyinsunny.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -16,8 +16,8 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Anish Acharya 
-description: "PhD Candidate @UT Austin, Previously Applied Scientist @Amazon Alexa AI"
+title: Yanice Yin
+description: "Master Student @Carnegie Mellon University"
 # Short description of your site
 
 # --- Navigation bar options --- #
@@ -27,9 +27,7 @@ navbar-links:
    # Bio: "bio"
    # Bio: "aboutme"
    Resume: "https://www.wncg.org/sites/default/files/cv/CV_ANISH.pdf"
-   Publications: "publications"
-   Talks: "talks"
-   Press: "press"   
+   Publications: "publications"  
    Awards: "awards"
    Outreach: "services"
    Open Source:
