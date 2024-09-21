@@ -25,7 +25,7 @@ description: "Master Student @Carnegie Mellon University"
 # List of links in the navigation bar
 navbar-links:
    # Bio: "bio"
-   # Bio: "aboutme"
+   Bio: "aboutme"
    Resume: "https://www.wncg.org/sites/default/files/cv/CV_ANISH.pdf"
    Publications: "publications"  
    Awards: "awards"
